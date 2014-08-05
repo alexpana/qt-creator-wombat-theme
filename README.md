@@ -1,7 +1,7 @@
 Qt Creator Wombat Theme
 =======================
 
-This is a dark color scheme for Qt Creator. It's inspired from the VIM [wombat][1] theme, but also styles the widgets such as combo boxes, tree views, etc.
+This is a dark color scheme for Qt Creator inspired from the VIM [wombat][1] theme. In addition to the color schemeit also styles widgets such as combo boxes, tree views, etc. to offer an elegant and uniform look and feel.
 
 ![Qt Creator with wombat theme](http://i.imgur.com/eqXMhz1.png)
 
@@ -30,4 +30,4 @@ An example:
 ```
 
 
-[1]: http://www.vim.org/scripts/script.php?script_id=2465
+[1]: http://dengmao.wordpress.com/2007/01/22/vim-color-scheme-wombat/
