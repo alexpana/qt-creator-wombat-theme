@@ -26,7 +26,7 @@ The stylesheet can be copied along with the icons folder anywhere. It is then lo
 
 An example:
 ```
-/path/to/QtCreator/QtCreator -style /path/to/stylesheet/stylesheet.css
+/path/to/QtCreator/QtCreator -stylesheet=/path/to/stylesheet/stylesheet.css
 ```
 
 
