@@ -22,7 +22,7 @@ The theme consists of two parts:
 
 The colorscheme should be copied in the styles directory of Qt Creator such as ~/.config/QtProject/qtcreator/styles
 
-The stylesheet can be copied along with the icons folder anywhere. It is then loaded using the -style parameter on startup of Qt Creator.
+The stylesheet can be copied along with the icons folder anywhere. It is then loaded using the -stylesheet parameter on startup of Qt Creator.
 
 An example:
 ```
