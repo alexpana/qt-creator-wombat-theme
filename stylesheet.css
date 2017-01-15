@@ -470,3 +470,15 @@ QHeaderView::section {
     border-top: 0px solid #777;
     padding: 0 0 2px 3px
 }
+
+/* ==================================================================================== */
+/* COMPILE OUTPUT                                                                       */
+/* ==================================================================================== */
+
+QWidget[windowTitle="Compile Output"]
+{
+    color: black;
+    background: #E3E3E3;
+    background-color: gray;
+    font-size: 12px;
+}
